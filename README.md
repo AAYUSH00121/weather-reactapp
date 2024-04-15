@@ -1,6 +1,4 @@
-Certainly! Here's a brief description you can use for your GitHub README:
 
----
 
 # Weather City Explorer
 
@@ -29,12 +27,4 @@ Weather City Explorer is a web application that allows users to explore weather 
 3. Start the development server with `npm start`.
 4. Open your browser and navigate to `http://localhost:3000` to view the application.
 
-## Contributors
 
-- [Your Name](https://github.com/yourusername)
-
-Feel free to contribute by submitting bug reports, feature requests, or pull requests!
-
----
-
-You can customize and expand upon this template to provide more details about your application and its functionality.
