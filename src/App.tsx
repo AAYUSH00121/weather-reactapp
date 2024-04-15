@@ -5,8 +5,7 @@ import WeatherPage from "./components/WeatherPage";
 
 const citiesApi =
   "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/geonames-all-cities-with-a-population-1000/records?limit=20";
-const geoApi = "http://api.openweathermap.org/geo/1.0/direct";
-const weatherApi = "http://api.openweathermap.org/data/2.5/weather";
+
 
 interface City {
   geoname_id: string;
